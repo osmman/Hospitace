@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
@@ -261,5 +261,3 @@ vendor
   subdirectory. If the app has frozen rails, those gems also go here, under
   vendor/rails/. This directory is in the load path.
 =======
-Test
->>>>>>> ffe9848f08cfa0c998cb1c3ad27dbb0362063ab3
